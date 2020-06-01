@@ -1,0 +1,15 @@
+{
+  "name": "6.-clima",
+  "version": "1.0.0",
+  "description": "app para consultar el clima en el mundo",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Acero",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
+}
